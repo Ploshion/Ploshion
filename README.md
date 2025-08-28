@@ -1,6 +1,6 @@
 Welcome to @Ploshion's GitHub Profile! 👋
 About Me
-Hey there! I'm @Ploshion, a passionate and experienced developer with a diverse skill set in various programming languages and technologies. I love building innovative solutions and tackling challenging problems.
+Hey there! I'm Carlos Cortes, a passionate and experienced developer with a diverse skill set in various programming languages and technologies. I love building innovative solutions and tackling challenging problems.
 
 Skills & Expertise
 JavaScript: I'm well-versed in JavaScript, the language of the web, and can create dynamic and interactive web applications using frameworks like React and Node.js.
